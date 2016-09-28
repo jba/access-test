@@ -210,29 +210,5 @@
        inkscape:export-filename=".\rect4485.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path4497"
-       d="m 5.0055377,1027.2727 c -1.170435,-1.0835 -2.026973,-0.7721 -2.044172,-0.7463"
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#384e54;stroke-width:0.39730874;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#384e54;stroke-width:0.39730874;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 4.3852457,1026.9152 c -1.158557,0.036 -1.346704,0.6303 -1.33881,0.6523"
-       id="path4499"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#384e54;stroke-width:0.39730874;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 26.630533,1027.1724 c 1.17043,-1.0835 2.02697,-0.7721 2.04417,-0.7463"
-       id="path4501"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path4503"
-       d="m 27.321773,1026.673 c 1.15856,0.036 1.3467,0.6302 1.3388,0.6522"
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#384e54;stroke-width:0.39730874;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
